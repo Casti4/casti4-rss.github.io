@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias Real Madrid</title>
+    <link>https://github.com/Casti4/casti4-rss.github.io</link>
+    <description>Feed de noticias y vídeos del Real Madrid.</description>
+    <category>Deportes</category>
+    <language>es-ES</language>
+    <lastBuildDate>Fri, 16 Feb 2024 21:00:00 GMT</lastBuildDate>
+    <webMaster>a23cacara@iesgrancapitan.org(Rafael Castillero Cañete)</webMaster>
+    <image>
+      <url>https://www.sopitas.com/wp-content/uploads/2020/06/real-madrid-escudo-significado-corona-sin-cruz.png</url>
+      <title>Escudo Real Madrid</title>
+      <link>https://github.com/Casti4/casti4-rss.github.io</link>
+    </image>
+<!--Restriccion no se actualize Sabados y Domingos.-->
+  <skipDays>
+    <day>Saturday</day>
+    <day>Sunday</day>
+  </skipDays>
+<!--Restriccion para que se salte las horas.-->
+  <skipHours>
+    <hour>0</hour>
+    <hour>1</hour>
+    <hour>2</hour>
+    <hour>3</hour>
+    <hour>4</hour>
+    <hour>5</hour>
+  </skipHours>
+   <item>
+      <title>Highlights Brahim Diaz</title>
+      <link>https://www.youtube.com/watch?v=iahng1dhEH0</link>
+      <description>Vídeo de los regates, goles y pases 2023/2024 de Brahim Diaz, jugador del Real Madrid.</description>
+      <author>a23cacara@iesgrancapitan.org (Rafael Castillero Cañete)</author>
+      <pubDate>Fri, 16 Feb 2024 20:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mejores goles Cristiano Ronaldo</title>
+      <link>https://www.youtube.com/watch?v=eFgSL_CHYwg</link>
+      <description>Vídeo de los 100 mejores goles de Critiano Ronaldo en el Real Madrid.</description>
+      <author>a23cacara@iesgrancapitan.org (Rafael Castillero Cañete)</author>
+      <pubDate>Fri, 16 Feb 2024 20:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mbappe al Madrid?</title>
+      <link>https://www.elconfidencial.com/deportes/futbol/2024-02-15/mbappe-al-khelaifi-adios-agente-libre-real-madrid-psg_3831482/</link>
+      <description>Mbappe dice adios a Nasser Al-Khelaïfi</description>
+      <author>a23cacara@iesgrancapitan.org (Rafael Castillero Cañete)</author>
+      <pubDate>Fri, 16 Feb 2024 20:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ultimas renovaciones</title>
+      <link>https://www.marca.com/futbol/real-madrid/2023/11/04/654629dcca47412d1d8b45b9.html</link>
+      <description>Ultimas renovaciones del Real Madrid.</description>
+      <author>a23cacara@iesgrancapitan.org (Rafael Castillero Cañete)</author>
+      <pubDate>Fri, 16 Feb 2024 20:55:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
